@@ -1,0 +1,106 @@
+[
+  {
+    "lineName": "1",
+    "lineId": 100
+  },
+  {
+    "lineName": "1A",
+    "lineId": 1900
+  },
+  {
+    "lineName": "2",
+    "lineId": 200
+  },
+  {
+    "lineName": "2A",
+    "lineId": 800
+  },
+  {
+    "lineName": "3",
+    "lineId": 300
+  },
+  {
+    "lineName": "3A",
+    "lineId": 301
+  },
+  {
+    "lineName": "4",
+    "lineId": 400
+  },
+  {
+    "lineName": "5",
+    "lineId": 500
+  },
+  {
+    "lineName": "6",
+    "lineId": 600
+  },
+  {
+    "lineName": "6A",
+    "lineId": 601
+  },
+  {
+    "lineName": "7",
+    "lineId": 700
+  },
+  {
+    "lineName": "11",
+    "lineId": 1100
+  },
+  {
+    "lineName": "12",
+    "lineId": 1200
+  },
+  {
+    "lineName": "12A",
+    "lineId": 1500
+  },
+  {
+    "lineName": "14",
+    "lineId": 1400
+  },
+  {
+    "lineName": "17",
+    "lineId": 1700
+  },
+  {
+    "lineName": "20",
+    "lineId": 2000
+  },
+  {
+    "lineName": "21",
+    "lineId": 2100
+  },
+  {
+    "lineName": "22",
+    "lineId": 2200
+  },
+  {
+    "lineName": "23",
+    "lineId": 2300
+  },
+  {
+    "lineName": "23A",
+    "lineId": 2301
+  },
+  {
+    "lineName": "24",
+    "lineId": 2400
+  },
+  {
+    "lineName": "BUH1",
+    "lineId": 1800
+  },
+  {
+    "lineName": "BUH2",
+    "lineId": 1801
+  },
+  {
+    "lineName": "UDC",
+    "lineId": 2450
+  },
+  {
+    "lineName": "UDC2",
+    "lineId": 2451
+  }
+]

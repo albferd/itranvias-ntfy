@@ -1,0 +1,2192 @@
+[
+  {
+    "name": "Abrente y lago",
+    "id": 1
+  },
+  {
+    "name": "Av. da Mariña, Teatro Rosalía",
+    "id": 2
+  },
+  {
+    "name": "Av. da Mariña, Obelisco",
+    "id": 3
+  },
+  {
+    "name": "Pza. de Mina, 26",
+    "id": 4
+  },
+  {
+    "name": "Pza. de Ourense",
+    "id": 5
+  },
+  {
+    "name": "Linares Rivas, 26",
+    "id": 6
+  },
+  {
+    "name": "Primo de Rivera, 1",
+    "id": 7
+  },
+  {
+    "name": "Catro Camiños",
+    "id": 8
+  },
+  {
+    "name": "Cabaleiros, fronte á Estación Autobuses",
+    "id": 9
+  },
+  {
+    "name": "Cabaleiros, Ministerios",
+    "id": 10
+  },
+  {
+    "name": "Av. de Monelos, Torre 8",
+    "id": 11
+  },
+  {
+    "name": "Av. de Monelos, Bloque 2",
+    "id": 12
+  },
+  
+  
+  {
+    "name": "Pza. de Pablo Iglesias, 8",
+    "id": 15
+  },
+  {
+    "name": "Abegondo, 4",
+    "id": 16
+  },
+  {
+    "name": "Castrillón, 39",
+    "id": 17
+  },
+  {
+    "name": "Pza. da Concordia, 27",
+    "id": 18
+  },
+  {
+    "name": "Av. da Concordia, 9",
+    "id": 19
+  },
+  {
+    "name": "Os Castros",
+    "id": 20
+  },
+  {
+    "name": "Av. do Exército, glorieta",
+    "id": 21
+  },
+  {
+    "name": "Av. do Exército, cruzamento Porto",
+    "id": 22
+  },
+  {
+    "name": "Primo de Rivera, A Palloza",
+    "id": 23
+  },
+  {
+    "name": "Primo de Rivera, viaduto",
+    "id": 24
+  },
+  {
+    "name": "Pza. de Ourense",
+    "id": 25
+  },
+  {
+    "name": "Pza. de Mina",
+    "id": 26
+  },
+  {
+    "name": "Obelisco",
+    "id": 27
+  },
+  {
+    "name": "Autoridade Portuaria",
+    "id": 28
+  },
+  {
+    "name": "Av. de Oza, Río Monelos",
+    "id": 29
+  },
+  {
+    "name": "Av. de Oza, Gaiteira",
+    "id": 30
+  },
+  {
+    "name": "Av. de Oza, 142",
+    "id": 31
+  },
+  {
+    "name": "Av. de Oza, 186",
+    "id": 32
+  },
+  {
+    "name": "Av. de Oza, 212",
+    "id": 33
+  },
+  {
+    "name": "Av. de Oza, 254",
+    "id": 34
+  },
+  {
+    "name": "Av. de Oza, 290",
+    "id": 35
+  },
+  {
+    "name": "Av. da Pasaxe, 47",
+    "id": 36
+  },
+  {
+    "name": "Av. de Oza, 185",
+    "id": 37
+  },
+  {
+    "name": "Av. de Oza, 141",
+    "id": 38
+  },
+  {
+    "name": "Av. de Oza, 115",
+    "id": 39
+  },
+  {
+    "name": "Av. de Oza, 7",
+    "id": 40
+  },
+  {
+    "name": "Costa da Palloza, 5",
+    "id": 41
+  },
+  {
+    "name": "Emilio González López, Manuel Azaña",
+    "id": 42
+  },
+  {
+    "name": "Manuel Azaña, 27",
+    "id": 43
+  },
+  {
+    "name": "Castelao, Estrada dos Fortes",
+    "id": 44
+  },
+  {
+    "name": "Gran Canaria, Colombia",
+    "id": 45
+  },
+  {
+    "name": "Pza. do Conservatorio",
+    "id": 46
+  },
+  {
+    "name": "Paseo de Rda., IES Salvador de Madariaga",
+    "id": 47
+  },
+  {
+    "name": "Gregorio Hernández, 2",
+    "id": 48
+  },
+  {
+    "name": "Rda. de Nelle, 145",
+    "id": 49
+  },
+  {
+    "name": "Rda. de Nelle, 109",
+    "id": 50
+  },
+  {
+    "name": "Rda. de Nelle, 73",
+    "id": 51
+  },
+  {
+    "name": "Rda. de Nelle, Av. de Arteixo",
+    "id": 52
+  },
+  {
+    "name": "Rda. de Nelle, 9",
+    "id": 53
+  },
+  
+  {
+    "name": "Av. da Pasaxe, Av. da Concordia",
+    "id": 55
+  },
+  {
+    "name": "Av. da Pasaxe, Casablanca",
+    "id": 56
+  },
+  {
+    "name": "Av. da Pasaxe, San Rafael",
+    "id": 57
+  },
+  {
+    "name": "CHUAC, Urxencias",
+    "id": 58
+  },
+  {
+    "name": "CHUAC, glorieta",
+    "id": 59
+  },
+  {
+    "name": "Av. da Pasaxe, tanatorio",
+    "id": 60
+  },
+  {
+    "name": "Av. da Pasaxe, viaduto",
+    "id": 61
+  },
+  
+  
+  {
+    "name": "Av. da Concordia, 14",
+    "id": 64
+  },
+  {
+    "name": "Av. da Concordia, 50",
+    "id": 65
+  },
+  {
+    "name": "Av. da Concordia, 72",
+    "id": 66
+  },
+  {
+    "name": "Abegondo, 3",
+    "id": 67
+  },
+  {
+    "name": "Pza. de Pablo Iglesias",
+    "id": 68
+  },
+  {
+    "name": "Av. da Concordia, 188",
+    "id": 69
+  },
+  {
+    "name": "Av. de Monelos, 141",
+    "id": 70
+  },
+  {
+    "name": "Av. de Monelos, 103",
+    "id": 71
+  },
+  {
+    "name": "Av. de Monelos, 45",
+    "id": 72
+  },
+  {
+    "name": "Cabaleiros, 33",
+    "id": 73
+  },
+  {
+    "name": "Cabaleiros, Estación Autobuses",
+    "id": 74
+  },
+  {
+    "name": "Concepción Arenal, 21",
+    "id": 75
+  },
+  {
+    "name": "Enrique Hervada, 4",
+    "id": 76
+  },
+  {
+    "name": "Rda. de Nelle, 26",
+    "id": 77
+  },
+  {
+    "name": "Rda. de Nelle, 70",
+    "id": 78
+  },
+  {
+    "name": "Rda. de Nelle, 90",
+    "id": 79
+  },
+  {
+    "name": "Rda. de Nelle, 130",
+    "id": 80
+  },
+  {
+    "name": "Rda. de Nelle, Paseo das Pontes",
+    "id": 81
+  },
+  {
+    "name": "Paseo de Rda., 24",
+    "id": 82
+  },
+  {
+    "name": "Paseo de Rda., Almirante Lángara",
+    "id": 83
+  },
+  {
+    "name": "Gran Canaria, Pza. de Náutica",
+    "id": 84
+  },
+  {
+    "name": "Honduras",
+    "id": 85
+  },
+  {
+    "name": "Labañou, 5",
+    "id": 86
+  },
+  {
+    "name": "Manuel Azaña, 26",
+    "id": 87
+  },
+  {
+    "name": "Manuel Azaña, 64",
+    "id": 88
+  },
+  {
+    "name": "Emilio González López, 32",
+    "id": 89
+  },
+  {
+    "name": "Emilio González López, 54",
+    "id": 90
+  },
+  {
+    "name": "Rda. de Outeiro, Manuel Murguía",
+    "id": 91
+  },
+  {
+    "name": "Rda. de Outeiro, 293",
+    "id": 92
+  },
+  {
+    "name": "Rda. de Outeiro, 269",
+    "id": 93
+  },
+  {
+    "name": "Rda. de Outeiro, 249",
+    "id": 94
+  },
+  {
+    "name": "Rda. de Outeiro, 219",
+    "id": 95
+  },
+  {
+    "name": "Rda. de Outeiro, Sagrada Familia",
+    "id": 96
+  },
+  {
+    "name": "Rda. de Outeiro, Vioño",
+    "id": 97
+  },
+  {
+    "name": "Rda. de Outeiro, 147",
+    "id": 98
+  },
+  {
+    "name": "Rda. de Outeiro, 109",
+    "id": 99
+  },
+  {
+    "name": "Av. do Ferrocarril, Estación de Trens",
+    "id": 100
+  },
+  {
+    "name": "Xeneral Rubín",
+    "id": 101
+  },
+  {
+    "name": "Salgado Torres, Milagrosa",
+    "id": 102
+  },
+  {
+    "name": "Salgado Torres, Garda Civil",
+    "id": 103
+  },
+  {
+    "name": "San Cristobal, Birloque",
+    "id": 104
+  },
+  {
+    "name": "San Cristovo, campo de fútbol",
+    "id": 105
+  },
+  {
+    "name": "Camilo José Cela, Matogrande",
+    "id": 106
+  },
+  {
+    "name": "Camilo José Cela, Liceo La Paz",
+    "id": 107
+  },
+  {
+    "name": "Glorieta cruzamento Eirís",
+    "id": 108
+  },
+  {
+    "name": "Av. de Monelos, Oleoduto",
+    "id": 109
+  },
+  
+  {
+    "name": "Camilo José Cela, Bloque 20",
+    "id": 111
+  },
+  {
+    "name": "Camilo José Cela, Bloque 29",
+    "id": 112
+  },
+  {
+    "name": "Camilo José Cela, Bloque 30",
+    "id": 113
+  },
+  {
+    "name": "San Cristovo, 2",
+    "id": 114
+  },
+  {
+    "name": "Pablo Picasso, 11",
+    "id": 115
+  },
+  {
+    "name": "Pablo Picasso, Edif. San Cristóbal",
+    "id": 116
+  },
+  {
+    "name": "Pablo Picasso, Casares Quiroga",
+    "id": 117
+  },
+  {
+    "name": "Xeneral Rubín",
+    "id": 118
+  },
+  {
+    "name": "Estación de Trens, glorieta",
+    "id": 119
+  },
+  {
+    "name": "Rda. de Outeiro, 126",
+    "id": 120
+  },
+  {
+    "name": "Rda. de Outeiro, 152",
+    "id": 121
+  },
+  {
+    "name": "Rda. de Outeiro, 172",
+    "id": 122
+  },
+  {
+    "name": "Rda. de Outeiro, 212",
+    "id": 123
+  },
+  {
+    "name": "Rda. de Outeiro, 232",
+    "id": 124
+  },
+  {
+    "name": "Rda. de Outeiro, 252",
+    "id": 125
+  },
+  {
+    "name": "Rda. de Outeiro, 272",
+    "id": 126
+  },
+  {
+    "name": "Rda. de Outeiro, 304",
+    "id": 127
+  },
+  
+  {
+    "name": "San Pedro de Mezonzo",
+    "id": 129
+  },
+  {
+    "name": "San Pedro de Visma, igrexa",
+    "id": 130
+  },
+  {
+    "name": "San Pedro de Visma, 1",
+    "id": 131
+  },
+  {
+    "name": "San Pedro de Visma, Estrada do Portiño",
+    "id": 132
+  },
+  {
+    "name": "Av. da Habana, 25",
+    "id": 134
+  },
+  {
+    "name": "Pza. de Pontevedra, 8",
+    "id": 137
+  },
+  {
+    "name": "Santa Catalina",
+    "id": 138
+  },
+  {
+    "name": "Porta Real, Dársena",
+    "id": 139
+  },
+  {
+    "name": "O Parrote, Hotel Finisterre",
+    "id": 140
+  },
+  {
+    "name": "Museo Militar",
+    "id": 141
+  },
+  {
+    "name": "Maestranza, 5",
+    "id": 142
+  },
+  {
+    "name": "Nuestra Señora del Rosario, 5",
+    "id": 143
+  },
+  {
+    "name": "General Alesón",
+    "id": 144
+  },
+  {
+    "name": "Orillamar, 6",
+    "id": 145
+  },
+  {
+    "name": "Orillamar, 42",
+    "id": 146
+  },
+  {
+    "name": "Cemiterio de Santo Amaro",
+    "id": 147
+  },
+  {
+    "name": "Orillamar, 96",
+    "id": 148
+  },
+  {
+    "name": "Residencia Torrente Ballester",
+    "id": 149
+  },
+  {
+    "name": "Durmideiras, praia",
+    "id": 150
+  },
+  {
+    "name": "Durmideiras, mercado",
+    "id": 151
+  },
+  {
+    "name": "Av. de Navarra, glorieta",
+    "id": 152
+  },
+  {
+    "name": "Cidade Deportiva da Torre",
+    "id": 153
+  },
+  {
+    "name": "Paseo Marítimo, fronte FP Ánxel Casal",
+    "id": 154
+  },
+  {
+    "name": "Paseo Marítimo, As Lagoas",
+    "id": 155
+  },
+  {
+    "name": "Paseo Marítimo, fronte á Domus",
+    "id": 156
+  },
+  {
+    "name": "Paseo Marítimo, fonte dos Surfistas",
+    "id": 157
+  },
+  
+  {
+    "name": "Paseo Marítimo, f/ ó Centro de Saúde",
+    "id": 159
+  },
+  {
+    "name": "Juan Flórez, 10",
+    "id": 160
+  },
+  {
+    "name": "Pza. do Mestre Mateo",
+    "id": 161
+  },
+  {
+    "name": "Av. da Habana, Estadio",
+    "id": 162
+  },
+  {
+    "name": "Av. da Habana, Cidade Xardín",
+    "id": 163
+  },
+  {
+    "name": "O Portiño",
+    "id": 164
+  },
+  {
+    "name": "San Pedro de Visma, Estrada Fortes",
+    "id": 165
+  },
+  {
+    "name": "San Pedro de Visma, Estrada de Bens",
+    "id": 166
+  },
+  {
+    "name": "San Andrés, 121",
+    "id": 167
+  },
+  {
+    "name": "San Andrés, 33",
+    "id": 168
+  },
+  {
+    "name": "Paseo Marítimo, Salesianos",
+    "id": 169
+  },
+  {
+    "name": "Av. de Navarra, 57",
+    "id": 170
+  },
+  
+  
+  {
+    "name": "Av. de Navarra, 27",
+    "id": 173
+  },
+  {
+    "name": "A Torre, 91",
+    "id": 174
+  },
+  {
+    "name": "A Torre, 63",
+    "id": 175
+  },
+  {
+    "name": "Baltasar Pardal",
+    "id": 176
+  },
+  {
+    "name": "Hípica",
+    "id": 177
+  },
+  {
+    "name": "A Maestranza, Veramar",
+    "id": 178
+  },
+  {
+    "name": "Xardín de San Carlos",
+    "id": 179
+  },
+  {
+    "name": "O Parrote, Capitanía",
+    "id": 180
+  },
+  {
+    "name": "Av. de Hércules, mercado",
+    "id": 181
+  },
+  {
+    "name": "Av. de Hércules, 37",
+    "id": 182
+  },
+  {
+    "name": "Pza. de España, 24",
+    "id": 183
+  },
+  {
+    "name": "Panadeiras, Museo",
+    "id": 184
+  },
+  {
+    "name": "San Andres, Africano",
+    "id": 185
+  },
+  {
+    "name": "Pza. Pontevedra, IES Eusebio da Guarda",
+    "id": 186
+  },
+  {
+    "name": "Juan Flórez, 56",
+    "id": 187
+  },
+  {
+    "name": "Juan Flórez, 82",
+    "id": 188
+  },
+  {
+    "name": "Juan Flórez, 116",
+    "id": 189
+  },
+  
+  {
+    "name": "Camilo José Cela, Bloque 44",
+    "id": 191
+  },
+  {
+    "name": "Camilo José Cela, Bloque 56",
+    "id": 192
+  },
+  {
+    "name": "Camilo José Cela, Bloque 2",
+    "id": 193
+  },
+  {
+    "name": "Juan Flórez, 119",
+    "id": 194
+  },
+  {
+    "name": "Pza. de Vigo",
+    "id": 195
+  },
+  {
+    "name": "Pza. de Galicia",
+    "id": 196
+  },
+  {
+    "name": "Pza. de Pontevedra, 11",
+    "id": 197
+  },
+  {
+    "name": "Panaderas, 49",
+    "id": 198
+  },
+  {
+    "name": "Pza. de España",
+    "id": 199
+  },
+  {
+    "name": "Santo Tomás, 2",
+    "id": 200
+  },
+  {
+    "name": "Santo Tomás, 72",
+    "id": 201
+  },
+  {
+    "name": "As Lagoas, glorieta",
+    "id": 202
+  },
+  {
+    "name": "Marqués de Figueroa",
+    "id": 203
+  },
+  {
+    "name": "O Birloque, fronte peña A Chave",
+    "id": 204
+  },
+  {
+    "name": "A Cabana",
+    "id": 205
+  },
+  {
+    "name": "Capitán Juan Varela",
+    "id": 206
+  },
+  {
+    "name": "Pza. de Monforte",
+    "id": 207
+  },
+  
+  
+  
+  
+  {
+    "name": "Estrada de Carballo, Iveco",
+    "id": 212
+  },
+  
+  
+  {
+    "name": "Av. de Fisterra, 44",
+    "id": 215
+  },
+  {
+    "name": "Av. de Fisterra, 84",
+    "id": 216
+  },
+  {
+    "name": "Av. de Fisterra, 192",
+    "id": 217
+  },
+  {
+    "name": "Av. de Fisterra, 256",
+    "id": 218
+  },
+  {
+    "name": "Av. de Fisterra, 288",
+    "id": 219
+  },
+  {
+    "name": "Av. de Fisterra, Ventorrillo",
+    "id": 220
+  },
+  {
+    "name": "A Silva",
+    "id": 221
+  },
+  {
+    "name": "Fontenova",
+    "id": 222
+  },
+  {
+    "name": "A Moura",
+    "id": 223
+  },
+  {
+    "name": "Refinería",
+    "id": 224
+  },
+  {
+    "name": "San Xosé",
+    "id": 225
+  },
+  {
+    "name": "Refinería",
+    "id": 226
+  },
+  {
+    "name": "Iglexa da Moura",
+    "id": 227
+  },
+  {
+    "name": "A Moura",
+    "id": 228
+  },
+  {
+    "name": "Fontenova",
+    "id": 229
+  },
+  {
+    "name": "A Silva",
+    "id": 230
+  },
+  {
+    "name": "Ventorrillo",
+    "id": 231
+  },
+  {
+    "name": "Av. de Fisterra, Rda. de Outeiro",
+    "id": 232
+  },
+  {
+    "name": "Av. de Fisterra, 215",
+    "id": 233
+  },
+  {
+    "name": "Av. de Fisterra, 147",
+    "id": 234
+  },
+  {
+    "name": "Av. de Fisterra, 69",
+    "id": 235
+  },
+  {
+    "name": "Av. de Fisterra, 31",
+    "id": 236
+  },
+  {
+    "name": "Riazor",
+    "id": 237
+  },
+  {
+    "name": "Manuel Murguía, Escravas",
+    "id": 238
+  },
+  {
+    "name": "Manuel Murguia, Empresariales",
+    "id": 239
+  },
+  {
+    "name": "Av. de Peruleiro, 20",
+    "id": 240
+  },
+  {
+    "name": "Mosteiro de Bergondo, 12",
+    "id": 241
+  },
+  {
+    "name": "Peñamaría de Llano, 6",
+    "id": 242
+  },
+  {
+    "name": "Alcalde Jaime Hervada",
+    "id": 243
+  },
+  {
+    "name": "Ventorrillo, Centro de Saúde",
+    "id": 244
+  },
+  {
+    "name": "Rodrigo A. de Santiago",
+    "id": 245
+  },
+  {
+    "name": "Vila de Negreira, 43",
+    "id": 246
+  },
+  {
+    "name": "Vila de Negreira, 9",
+    "id": 247
+  },
+  {
+    "name": "Manuel Murguía, Casa da Auga",
+    "id": 248
+  },
+  {
+    "name": "Manuel Murguía, pavillón",
+    "id": 249
+  },
+  {
+    "name": "Costa da Unión",
+    "id": 250
+  },
+  {
+    "name": "Pla y Cancela, 38",
+    "id": 251
+  },
+  {
+    "name": "Os Mallos, Biscaia",
+    "id": 252
+  },
+  {
+    "name": "Os Mallos, Ronda Outeiro",
+    "id": 253
+  },
+  
+  {
+    "name": "Av. da Sardiñeira, Europa",
+    "id": 255
+  },
+  {
+    "name": "Av. da Sardiñeira, Estación de Trens",
+    "id": 256
+  },
+  {
+    "name": "Av. de Arteixo, 85",
+    "id": 257
+  },
+  {
+    "name": "Pla y Cancela, 41",
+    "id": 258
+  },
+  {
+    "name": "Enrique Dequidt",
+    "id": 259
+  },
+  {
+    "name": "Cabo Ponte Anido",
+    "id": 260
+  },
+  {
+    "name": "Ramón del Cueto, 37",
+    "id": 261
+  },
+  {
+    "name": "Curros Enríquez",
+    "id": 262
+  },
+  {
+    "name": "Av. de Hércules, 115",
+    "id": 263
+  },
+  {
+    "name": "Rda. de Outeiro, Hotel Avenida",
+    "id": 264
+  },
+  {
+    "name": "Rda. de Outeiro, viaduto",
+    "id": 265
+  },
+  {
+    "name": "Ronda. Outeiro, La Cubela",
+    "id": 266
+  },
+  {
+    "name": "Rda. Outeiro, Merced",
+    "id": 267
+  },
+  {
+    "name": "Ramón y Cajal, Casa do Mar",
+    "id": 268
+  },
+  {
+    "name": "Rda. de Outeiro, Pérez Ardá",
+    "id": 269
+  },
+  {
+    "name": "Pza. da Palloza",
+    "id": 270
+  },
+  {
+    "name": "Av. do Exército, Casa do Mar",
+    "id": 271
+  },
+  {
+    "name": "Av. do Exército, 16",
+    "id": 272
+  },
+  
+  
+  {
+    "name": "Av. da Pasaxe, gasolineira",
+    "id": 275
+  },
+  {
+    "name": "Av. da Pasaxe, oncolóxico",
+    "id": 276
+  },
+  {
+    "name": "Av. de Alfonso Molina, Pedralonga",
+    "id": 277
+  },
+  {
+    "name": "Av. de Alfonso Molina, Palavea",
+    "id": 278
+  },
+  {
+    "name": "Av. de Alfonso Molina, Ofimático",
+    "id": 279
+  },
+  {
+    "name": "Alfonso Molina, Armas",
+    "id": 280
+  },
+  {
+    "name": "Av. de Alfonso Molina, Matogrande",
+    "id": 281
+  },
+  {
+    "name": "Paxariñas",
+    "id": 282
+  },
+  {
+    "name": "Paxariñas",
+    "id": 283
+  },
+  {
+    "name": "Pablo Picasso, Isaac Díaz Pardo",
+    "id": 284
+  },
+  {
+    "name": "Pablo Picasso, 4",
+    "id": 285
+  },
+  {
+    "name": "Av. de Alfonso Molina, Coliséum",
+    "id": 286
+  },
+  {
+    "name": "Av. de Alfonso Molina, Edif. Sindicatos",
+    "id": 287
+  },
+  {
+    "name": "Av.Alfonso Molina,cruzamento A Zapateira",
+    "id": 288
+  },
+  {
+    "name": "Av. de Alfonso Molina, baixo autoestrada",
+    "id": 289
+  },
+  {
+    "name": "Av. de Alfonso Molina, Palavea",
+    "id": 290
+  },
+  {
+    "name": "Av. da Pasaxe, Ponte da Pasaxe",
+    "id": 291
+  },
+  {
+    "name": "Av. Pasaxe, Colexio Santa María do Mar",
+    "id": 292
+  },
+  {
+    "name": "Av. da Pasaxe, Materno Infantil",
+    "id": 293
+  },
+  {
+    "name": "FP Someso",
+    "id": 294
+  },
+  {
+    "name": "O Martinete",
+    "id": 295
+  },
+  {
+    "name": "Estrada de Pocomaco, O Martinete",
+    "id": 296
+  },
+  {
+    "name": "Estrada de Mesoiro, glorieta",
+    "id": 297
+  },
+  {
+    "name": "Mesoiro, 22",
+    "id": 298
+  },
+  {
+    "name": "Mesoiro, 90",
+    "id": 299
+  },
+  {
+    "name": "Estrada de Mesoiro, Illas Sisargas",
+    "id": 300
+  },
+  {
+    "name": "Feáns, 32",
+    "id": 301
+  },
+  {
+    "name": "Feáns, 56",
+    "id": 302
+  },
+  {
+    "name": "Feáns, 76",
+    "id": 303
+  },
+  {
+    "name": "Estrada Cemiterio, Estrada de Uxes",
+    "id": 304
+  },
+  {
+    "name": "Cemiterio de Feáns",
+    "id": 305
+  },
+  {
+    "name": "Urbanización Breogán",
+    "id": 306
+  },
+  {
+    "name": "Cemiterio de Feáns",
+    "id": 307
+  },
+  {
+    "name": "Estrada Cemiterio, Estrada de Uxes",
+    "id": 308
+  },
+  {
+    "name": "Feáns, 109",
+    "id": 309
+  },
+  {
+    "name": "Feáns, 55",
+    "id": 310
+  },
+  {
+    "name": "Estrada de Mesoiro, Illas Sisargas",
+    "id": 311
+  },
+  {
+    "name": "Pocomaco, cruzamento Mesoiro",
+    "id": 312
+  },
+  {
+    "name": "Pocomaco C15",
+    "id": 313
+  },
+  {
+    "name": "Pocomaco C8",
+    "id": 314
+  },
+  {
+    "name": "Pocomaco, gasolineira",
+    "id": 315
+  },
+  {
+    "name": "Estrada de Pocomaco, O Martinete",
+    "id": 316
+  },
+  {
+    "name": "O Birloque, residencial O Birloque",
+    "id": 317
+  },
+  {
+    "name": "San Cristóbal, Salgado Torres",
+    "id": 318
+  },
+  {
+    "name": "Salgado Torres, Garda Civil",
+    "id": 319
+  },
+  {
+    "name": "Salgado Torres, Milagrosa",
+    "id": 320
+  },
+  {
+    "name": "Salgado Torres, túnel",
+    "id": 321
+  },
+  {
+    "name": "Ramón y Cajal",
+    "id": 322
+  },
+  {
+    "name": "O Birloque, peña A Chave",
+    "id": 323
+  },
+  {
+    "name": "O Birloque, estrada de Pocomaco",
+    "id": 324
+  },
+  {
+    "name": "Estrada de Pocomaco, O Martinete",
+    "id": 325
+  },
+  {
+    "name": "Pocomaco B15",
+    "id": 326
+  },
+  {
+    "name": "Pocomaco B4",
+    "id": 327
+  },
+  {
+    "name": "Pocomaco A5",
+    "id": 328
+  },
+  {
+    "name": "Pocomaco, Terceira Rda.",
+    "id": 329
+  },
+  {
+    "name": "Pocomaco 4, desvio a Vio",
+    "id": 330
+  },
+  {
+    "name": "Vio",
+    "id": 331
+  },
+  {
+    "name": "Paideia",
+    "id": 332
+  },
+  {
+    "name": "Pocomaco, Estrada de Feáns",
+    "id": 333
+  },
+  {
+    "name": "Obradoiro",
+    "id": 334
+  },
+  {
+    "name": "Estrada do Obradorio",
+    "id": 335
+  },
+  {
+    "name": "Mesoiro, 73",
+    "id": 336
+  },
+  {
+    "name": "Mesoiro, 43",
+    "id": 337
+  },
+  {
+    "name": "Mesoiro, 11",
+    "id": 338
+  },
+  {
+    "name": "O Martinete, Estrada de Pocomaco",
+    "id": 339
+  },
+  {
+    "name": "O Martinete",
+    "id": 340
+  },
+  {
+    "name": "FP Someso",
+    "id": 341
+  },
+  {
+    "name": "A Cabana",
+    "id": 342
+  },
+  {
+    "name": "O Birloque, polideportivo",
+    "id": 343
+  },
+  {
+    "name": "Av. de Alfonso Molina, Pza. de Madrid",
+    "id": 344
+  },
+  {
+    "name": "Paxariñas, Álvaro Cunqueiro",
+    "id": 345
+  },
+  {
+    "name": "Av. de Alfonso Molina, Campus de Elviña",
+    "id": 346
+  },
+  
+  {
+    "name": "Campus de Elviña, glorieta",
+    "id": 348
+  },
+  {
+    "name": "Campus de Elviña, Informática",
+    "id": 349
+  },
+  {
+    "name": "Antonio Insua Rivas, 2",
+    "id": 350
+  },
+  {
+    "name": "Antonio Insua Rivas, 34",
+    "id": 351
+  },
+  {
+    "name": "Antonio Insua Rivas, 54",
+    "id": 352
+  },
+  {
+    "name": "Antonio Insua Rivas, 86",
+    "id": 353
+  },
+  {
+    "name": "Campus da Zapateira, Arquitectura",
+    "id": 354
+  },
+  
+  {
+    "name": "Campus da Zapateira, Filoloxía",
+    "id": 356
+  },
+  {
+    "name": "Nova York, Xesuitinas",
+    "id": 357
+  },
+  {
+    "name": "Os Rosales, cruzamento San Pedro",
+    "id": 358
+  },
+  {
+    "name": "Salvador de Madariaga, gasolineira",
+    "id": 359
+  },
+  
+  {
+    "name": "Salvador Madariaga, Rafael Alberti",
+    "id": 361
+  },
+  {
+    "name": "Camilo José Cela, San Cristovo",
+    "id": 362
+  },
+  {
+    "name": "Av. de Monelos, fronte ó 211",
+    "id": 363
+  },
+  {
+    "name": "Estrada de Eirís, 40",
+    "id": 364
+  },
+  {
+    "name": "Av. de Monserrat, xeriátrico",
+    "id": 365
+  },
+  {
+    "name": "Av. de Monserrat, Urb. Los Arces",
+    "id": 366
+  },
+  {
+    "name": "Av. de Monserrat, 40",
+    "id": 367
+  },
+  {
+    "name": "Av. de Pedralonga, Fábrica de Armas",
+    "id": 368
+  },
+  {
+    "name": "Alcampo",
+    "id": 369
+  },
+  {
+    "name": "Santa Xema",
+    "id": 370
+  },
+  {
+    "name": "A Pasaxe, Santa Xema",
+    "id": 371
+  },
+  {
+    "name": "A Pasaxe",
+    "id": 372
+  },
+  {
+    "name": "Av. de Pedralonga, 57",
+    "id": 373
+  },
+  {
+    "name": "Av. de Pedralonga, fronte ó 4",
+    "id": 374
+  },
+  {
+    "name": "Av. de Monserrat, Oncolóxico",
+    "id": 375
+  },
+  {
+    "name": "Estrada de Eirís, fronte ó 46",
+    "id": 376
+  },
+  {
+    "name": "Av. de Monelos, 243",
+    "id": 377
+  },
+  {
+    "name": "Av. de Monelos, 211",
+    "id": 378
+  },
+  {
+    "name": "Matogrande",
+    "id": 379
+  },
+  {
+    "name": "Camilo José Cela, Bloque 40",
+    "id": 380
+  },
+  {
+    "name": "Salvador Madariaga, Pablo Neruda",
+    "id": 381
+  },
+  {
+    "name": "Salvador Madariaga, mercado",
+    "id": 382
+  },
+  {
+    "name": "Salvador Madariaga, Monelos",
+    "id": 383
+  },
+  {
+    "name": "Av. da Habana, Pérez Lugin",
+    "id": 384
+  },
+  {
+    "name": "Av. de Bos Aires",
+    "id": 385
+  },
+  {
+    "name": "Paseo Marítimo, Matadoiro",
+    "id": 386
+  },
+  {
+    "name": "Paseo Marítimo, Santa Teresa",
+    "id": 387
+  },
+  {
+    "name": "Rda. de Monte Alto, 117",
+    "id": 388
+  },
+  {
+    "name": "Paseo Marítimo, 9",
+    "id": 389
+  },
+  {
+    "name": "Paseo Marítimo, FP Ánxel Casal",
+    "id": 390
+  },
+  {
+    "name": "Glorieta da Torre",
+    "id": 391
+  },
+  
+  {
+    "name": "Plaza Pontevedra, Juana de Vega",
+    "id": 393
+  },
+  {
+    "name": "Estrada Campus de Elviña",
+    "id": 394
+  },
+  {
+    "name": "Glor. av. de Fisterra, Rda. de Outeiro",
+    "id": 395
+  },
+  {
+    "name": "Ramón y Cajal, 30",
+    "id": 396
+  },
+  {
+    "name": "Salgado Torres, túnel",
+    "id": 397
+  },
+  {
+    "name": "Pza. de Pontevedra, 18",
+    "id": 398
+  },
+  {
+    "name": "Av. Alfonso Molina, Estación Autobuses",
+    "id": 399
+  },
+  {
+    "name": "Av. de Alfonso Molina, Fdez. Latorre",
+    "id": 400
+  },
+  
+  {
+    "name": "Av. Nostián",
+    "id": 402
+  },
+  {
+    "name": "Av. do Butano",
+    "id": 403
+  },
+  {
+    "name": "Nostián",
+    "id": 404
+  },
+  {
+    "name": "Av. do Butano",
+    "id": 405
+  },
+  {
+    "name": "Av. Nostián",
+    "id": 406
+  },
+  {
+    "name": "San José",
+    "id": 407
+  },
+  {
+    "name": "Estrada de Bens, Penamoa",
+    "id": 408
+  },
+  {
+    "name": "Chalés Refinería",
+    "id": 409
+  },
+  {
+    "name": "Mazaído",
+    "id": 410
+  },
+  {
+    "name": "Comeanda",
+    "id": 411
+  },
+  {
+    "name": "Bens",
+    "id": 412
+  },
+  {
+    "name": "Comeanda",
+    "id": 413
+  },
+  {
+    "name": "Mazaído",
+    "id": 414
+  },
+  {
+    "name": "Chalés Refinería",
+    "id": 415
+  },
+  {
+    "name": "Av. do Exército, 44",
+    "id": 416
+  },
+  {
+    "name": "O Birloque, Bloque 6-8",
+    "id": 417
+  },
+  
+  
+  
+  
+  
+  
+  {
+    "name": "Cocheras",
+    "id": 424
+  },
+  {
+    "name": "Paseo Marítimo, Modesta Goicouria",
+    "id": 425
+  },
+  {
+    "name": "Paseo Marítimo, Centro de Saúde",
+    "id": 426
+  },
+  
+  {
+    "name": "Nova York, Filoloxía",
+    "id": 428
+  },
+  {
+    "name": "Nova York, Augas Mansas",
+    "id": 429
+  },
+  {
+    "name": "Nova York, Valaire",
+    "id": 430
+  },
+  {
+    "name": "Nova York, Casino",
+    "id": 431
+  },
+  {
+    "name": "Nova York, Rialta",
+    "id": 432
+  },
+  {
+    "name": "Nova York, fronte Filoloxía",
+    "id": 433
+  },
+  {
+    "name": "Cocheras",
+    "id": 434
+  },
+  {
+    "name": "Nova York, Amberes",
+    "id": 435
+  },
+  
+  {
+    "name": "Obelisco",
+    "id": 437
+  },
+  {
+    "name": "P. Maritimo",
+    "id": 438
+  },
+  {
+    "name": "Campus Zapateira, Casa Francés",
+    "id": 439
+  },
+  {
+    "name": "General Sanjurjo, Carret. Pasaxe",
+    "id": 440
+  },
+  
+  
+  {
+    "name": "Nova York, fronte ó Casino",
+    "id": 443
+  },
+  
+  {
+    "name": "Av. de Monelos, Bloque 6",
+    "id": 445
+  },
+  {
+    "name": "Vicente Aleixandre, 39",
+    "id": 446
+  },
+  {
+    "name": "Antonio Noche, 10",
+    "id": 447
+  },
+  
+  
+  
+  
+  {
+    "name": "Lisboa",
+    "id": 452
+  },
+  {
+    "name": "Nova York, Belgrado",
+    "id": 453
+  },
+  
+  
+  {
+    "name": "Intercampus, Arquitectura",
+    "id": 456
+  },
+  {
+    "name": "Intercampus, pobo",
+    "id": 457
+  },
+  {
+    "name": "Intercampus, O Castro",
+    "id": 458
+  },
+  {
+    "name": "Intercampus, Económicas",
+    "id": 459
+  },
+  {
+    "name": "Intercampus, glorieta Elviña",
+    "id": 460
+  },
+  {
+    "name": "Campus de Elviña, cruzamento pobo",
+    "id": 461
+  },
+  {
+    "name": "Campus da Zapateira, Aparelladores",
+    "id": 462
+  },
+  {
+    "name": "Valaire 107-109",
+    "id": 463
+  },
+  {
+    "name": "O Carón",
+    "id": 464
+  },
+  {
+    "name": "Birloque, 22",
+    "id": 465
+  },
+  {
+    "name": "Av. de Arteixo, fronte ó 105",
+    "id": 466
+  },
+  {
+    "name": "Av. de Arteixo, Centro de Saúde",
+    "id": 467
+  },
+  {
+    "name": "Maria J. Wonenburger",
+    "id": 468
+  },
+  {
+    "name": "Newton",
+    "id": 469
+  },
+  {
+    "name": "Severo Ochoa, Newton",
+    "id": 470
+  },
+  {
+    "name": "Severo Ochoa, Galileo Galilei",
+    "id": 471
+  },
+  {
+    "name": "Av. da Sardiñeira, Fenosa",
+    "id": 472
+  },
+  {
+    "name": "Av. da Sardiñeira, IES",
+    "id": 473
+  },
+  
+  
+  
+  
+  
+  
+  {
+    "name": "Nova York, Los Abetos",
+    "id": 480
+  },
+  {
+    "name": "Newton, Galileo Galilei",
+    "id": 481
+  },
+  {
+    "name": "A Maestranza, Metrosidero",
+    "id": 482
+  },
+  {
+    "name": "Valaire, O Carón",
+    "id": 483
+  },
+  
+  {
+    "name": "Los Rosales, Residencia Ancianos",
+    "id": 485
+  },
+  {
+    "name": "Illas Sisargas, supermercado",
+    "id": 486
+  },
+  {
+    "name": "Novo Mesoiro, 10",
+    "id": 487
+  },
+  {
+    "name": "Novo Mesoiro, 30",
+    "id": 488
+  },
+  {
+    "name": "Ribeira Sacra, 3",
+    "id": 489
+  },
+  {
+    "name": "Ribeira Sacra, 12",
+    "id": 490
+  },
+  {
+    "name": "Fragas do Eume",
+    "id": 491
+  },
+  {
+    "name": "Novo Mesoiro, fronte ó 38",
+    "id": 492
+  },
+  {
+    "name": "Novo Mesoiro, 25",
+    "id": 493
+  },
+  {
+    "name": "Novo Mesoiro, 5",
+    "id": 494
+  },
+  {
+    "name": "Illas Sisargas, Feáns",
+    "id": 495
+  },
+  {
+    "name": "Glorieta cruzamento Eirís, viaduto",
+    "id": 496
+  },
+  {
+    "name": "Campus de Elviña, Edif. Sindicatos",
+    "id": 497
+  },
+  {
+    "name": "Nova York, Londres",
+    "id": 498
+  },
+  {
+    "name": "Estrada Bens, av. de Fisterra",
+    "id": 499
+  },
+  {
+    "name": "Av. da Pasaxe, As Xubias",
+    "id": 500
+  },
+  {
+    "name": "Lugar de Penarredonda",
+    "id": 501
+  },
+  {
+    "name": "Barrio de las Flores, Eiris",
+    "id": 502
+  },
+  {
+    "name": "Edificio Proa",
+    "id": 503
+  },
+  {
+    "name": "Severo Ochoa",
+    "id": 504
+  },
+  {
+    "name": "Pérez Arda,  Brasil",
+    "id": 505
+  },
+  {
+    "name": "Vicente Aleixandre, 55",
+    "id": 506
+  },
+  {
+    "name": "Vicente Aleixandre, 1",
+    "id": 507
+  },
+  {
+    "name": "Curtis, fronte ó 6",
+    "id": 508
+  },
+  {
+    "name": "José María Hernansáez, 31",
+    "id": 509
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "name": "Igrexa de Bens",
+    "id": 522
+  },
+  {
+    "name": "Abente y Lago",
+    "id": 523
+  },
+  {
+    "name": "Av. do Exército, 68",
+    "id": 524
+  },
+  {
+    "name": "Os Castros, Av. da Concordia",
+    "id": 525
+  },
+  {
+    "name": "Juana de Vega",
+    "id": 526
+  },
+  {
+    "name": "Riazor, Esclavas",
+    "id": 527
+  },
+  {
+    "name": "Casa de los Peces, Las Lagoas",
+    "id": 528
+  },
+  {
+    "name": "Torre de Hercules, Glorieta",
+    "id": 529
+  },
+  {
+    "name": "San Amaro, Cementerio",
+    "id": 530
+  },
+  {
+    "name": "Maestranza Hipica",
+    "id": 531
+  },
+  {
+    "name": "Castillo de San Anton, Glorieta",
+    "id": 532
+  },
+  {
+    "name": "La Solana, provisional",
+    "id": 533
+  },
+  
+  {
+    "name": "Castillo de San Anton, Nautico",
+    "id": 535
+  },
+  {
+    "name": "Maestranza, costa",
+    "id": 536
+  },
+  {
+    "name": "San Amaro, Costa",
+    "id": 537
+  },
+  {
+    "name": "Cocheras Tranvia, I",
+    "id": 538
+  },
+  {
+    "name": "Cocheras Tranvia, V",
+    "id": 539
+  },
+  {
+    "name": "Espacio Coruña",
+    "id": 540
+  },
+  {
+    "name": "Igrexa de Bens",
+    "id": 541
+  },
+  {
+    "name": "Luis Iglesias, 4",
+    "id": 542
+  },
+  {
+    "name": "Luis Iglesias, 4",
+    "id": 543
+  },
+  {
+    "name": "Francisco Sánchez",
+    "id": 544
+  },
+  {
+    "name": "Oncolóxico",
+    "id": 545
+  },
+  {
+    "name": "Cruzamento de Luis Freire",
+    "id": 546
+  },
+  {
+    "name": "Félix Rodríguez de la Fuente",
+    "id": 547
+  },
+  {
+    "name": "Breogan",
+    "id": 548
+  },
+  {
+    "name": "As Lagoas",
+    "id": 549
+  },
+  {
+    "name": "Área Comercial Marineda",
+    "id": 550
+  },
+  {
+    "name": "Porto de Oza",
+    "id": 551
+  },
+  {
+    "name": "Hospital de Oza",
+    "id": 552
+  },
+  {
+    "name": "Emilio González López, 44",
+    "id": 553
+  },
+  {
+    "name": "Paseo Marítimo, Cancela",
+    "id": 554
+  },
+  {
+    "name": "Rúa Hospital, Zalaeta",
+    "id": 555
+  },
+  {
+    "name": "San Juan, 10",
+    "id": 556
+  },
+  {
+    "name": "Matogrande, rotonda",
+    "id": 557
+  },
+  {
+    "name": "Intercampus, Arquitectura",
+    "id": 558
+  },
+  {
+    "name": "Rda. de Outeiro, IES Rafael Dieste",
+    "id": 559
+  },
+  {
+    "name": "Educación, Conservatorio",
+    "id": 560
+  },
+  {
+    "name": "José María Rivera Corral",
+    "id": 561
+  },
+  {
+    "name": "Av. do Ferrocarril, 14",
+    "id": 562
+  },
+  {
+    "name": "Av. do Ferrocarril, 54",
+    "id": 563
+  },
+  {
+    "name": "San Cristovo, av. da Sardiñeira",
+    "id": 564
+  },
+  {
+    "name": "Av. do Ferrocarril, 81",
+    "id": 565
+  },
+  {
+    "name": "Av. do Ferrocarril, Pza. Ozores Arraiz",
+    "id": 566
+  },
+  {
+    "name": "Av. do Ferrocarril, 33",
+    "id": 567
+  },
+  {
+    "name": "Av. de Navarra, Rda. de Monte Alto",
+    "id": 568
+  },
+  {
+    "name": "Rda. de Monte Alto, 32",
+    "id": 569
+  },
+  {
+    "name": "Rda. de Monte Alto, 52",
+    "id": 570
+  },
+  {
+    "name": "Nova York, A Zapateira",
+    "id": 571
+  },
+  {
+    "name": "Nova York, A Zapateira",
+    "id": 572
+  },
+  {
+    "name": "Travesía de Meicende, 159",
+    "id": 573
+  },
+  {
+    "name": "Meicende, Av. do Butano",
+    "id": 574
+  },
+  {
+    "name": "Travesía de Meicende, 166",
+    "id": 575
+  },
+  {
+    "name": "Travesía de Meicende, 214",
+    "id": 576
+  },
+  {
+    "name": "Meicende, Av. do Butano",
+    "id": 577
+  },
+  {
+    "name": "Nova York, lugar de Monte do Espiño",
+    "id": 578
+  },
+  {
+    "name": "Pza. de Casares Quiroga",
+    "id": 579
+  },
+  {
+    "name": "Av. do Ferrocarril,f/ Pza.Ozores Arraiz",
+    "id": 580
+  },
+  {
+    "name": "Av. do Ferrocarril, Residencial Trébole",
+    "id": 581
+  },
+  {
+    "name": "Aparcadoiro Lonzas",
+    "id": 582
+  },
+  {
+    "name": "Aparcadoiro Lonzas",
+    "id": 583
+  },
+  {
+    "name": "Santa Cristina, Glorieta",
+    "id": 584
+  },
+  {
+    "name": "Urbanización Os Olivos",
+    "id": 585
+  },
+  {
+    "name": "Urbanización Valle Sur",
+    "id": 586
+  },
+  {
+    "name": "Urbanización Monte Golf",
+    "id": 587
+  },
+  {
+    "name": "Urbanización O Carón",
+    "id": 588
+  },
+  {
+    "name": "Provisional, Jose Miñones",
+    "id": 589
+  },
+  {
+    "name": "Hospital de Oza",
+    "id": 590
+  },
+  {
+    "name": "As Xubias",
+    "id": 591
+  },
+  {
+    "name": "Perez Ardá, C. Chile",
+    "id": 592
+  },
+  {
+    "name": "Obelisco Millenium",
+    "id": 593
+  },
+  {
+    "name": "Avda. Arteixo, 74",
+    "id": 594
+  },
+  {
+    "name": "Aurelio Aguirre Galarraga",
+    "id": 595
+  },
+  {
+    "name": "Juan Florez, 18",
+    "id": 596
+  },
+  {
+    "name": "Avenida Porto, entrada parking",
+    "id": 597
+  }
+]
