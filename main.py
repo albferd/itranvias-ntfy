@@ -1,22 +1,27 @@
 # encoding = utf-8
-import ast
+import ast # para leer el archivo y hacer texto_de_archivo ->  diccionario
 import json
-import re
 from datetime import datetime
 from logging import warning
 from time import sleep
 
-import requests
+import requests # librería que hace las peticiones
 
-from albertcode import drawtable
+from albertcode import drawtable # Opcional; es la función que hace la tabla
+import re # esto también
+
 
 
 '''
 Cómo funcionará esto:
 1 - Pedir una parada de bus, línea y minutos a los que se quiera vigilar ( tener valores por defecto también)
-2- Mirar api cada
+2 - Mirar api cada X minutos
+3 - Si parada[linea][buses][minutos] < X:
+4 - Enviar notificación a ntfy
+5 - Salir
 '''
 LOADING = ['-', '\\', '|', '/']
+debugOn = 0
 # Variables
 NTFY_HOST = "https://ntfy.sh/"
 NTFY_TOPIC = "testchannel-udc"  # Este es también una contraseña; si tienes el 'topic' puedes recibir sus notificaciones
@@ -28,7 +33,7 @@ NTFY_PRIORITIES = {
     "low": 2,
     "min": 1,
 }
-NOTIFICATION_MINUTES_TRESHOLD = 3
+NOTIFICATION_MINUTES_TRESHOLD = 4
 # NOTIFICATION_TEMPLATE = t'{e}'
 ITRANVIAS_CHECK_DELAY = 10
 ITRANVIAS_URL_ROOT = "https://itranvias.com/queryitr_v3.php"
@@ -76,11 +81,6 @@ def send_notification(host=NTFY_HOST, topic="test", title="", message="", priori
     }
     requests.post(host, json.dumps(data))
 
-
-def query_bus_stops():
-    pass
-
-
 def search_line_id_by_name(text="", lines=None):
     if lines is None:
         lines = all_lines
@@ -124,6 +124,7 @@ def query_buses_at_stop(internal_stop_id, line_n=None):
         "dato": internal_stop_id,  # Lo que hace 'dato' depende de cuál 'func' hayas escogido. Tremenda API.
         # En este caso; dato = id de la parada que quieres ver
         "_": (datetime.now() - datetime(1970, 1, 1)).total_seconds()  # timestamp (opcional??)
+        # (Sí, el parámetro se llama '_', no preguntes)
     }
     retry_count = 0
     while True:
@@ -144,6 +145,7 @@ def query_buses_at_stop(internal_stop_id, line_n=None):
     try:
         lines_of_stop = response_dict['buses']['lineas']
     except KeyError:
+        print(f"Ya no hay más autobuses hoy de ninguna línea ahí...")
         quit(7)
     chosen_line = None
     for line in lines_of_stop:
@@ -156,8 +158,9 @@ def query_buses_at_stop(internal_stop_id, line_n=None):
     return chosen_line['buses']
 
 
-if __name__ == '__main__':
-    debugOn = 1
+
+if __name__ == '__main__': # Empieza acá+
+
     if debugOn:
         print("debug mode enabled")
     with open(ITRANVIAS_STOPS_FILE, 'r', encoding="utf8") as file:
